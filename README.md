@@ -1,4 +1,4 @@
-# Soil Contouring
+# Soil Contour Mapping
 
 This was one of my projects I have done during my internship. I decided to continue as I gained interest in it.
 
