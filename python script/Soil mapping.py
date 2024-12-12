@@ -9,7 +9,7 @@ from scipy.interpolate import griddata, Rbf
 base_folder_path = r'folder_path' #change "folder_path" to your own
 
 # Output directory for contour maps
-save_directory = r"C:\Users\10024680\Downloads"
+save_directory = r"your_directory" #change it accordingly to where you want to save
 
 # Property to filter for contour mapping
 property_filter = 'F1(m)'  # Replace with the desired property column name
