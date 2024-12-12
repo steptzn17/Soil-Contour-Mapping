@@ -1,3 +1,5 @@
+#This was done on a Macbook and data was extracted from a thumbdrive. Hence, the name of this file.
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
