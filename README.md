@@ -1,6 +1,6 @@
 # Soil Contour Mapping
 
-Started during my internship. I decided to continue diving into this area as I gained interest in it.
+Started during my internship. I decided to continue diving into this area as I gained interest in it. Tried to code in other languages besides Python
 
 ## Soil Contouring Using Python
 
