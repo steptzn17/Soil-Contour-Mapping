@@ -8,7 +8,7 @@ library(gridExtra)
 library(dendext)  # For interpolation
 
 # Define file path (replace with your actual path)
-file_path <- "/Volumes/STEPH 64GB/SJ/Soil Contour/Phase-2A-A.xlsx"
+file_path <- "your_excel_file_path.xlsx"  #change it accordingly
 
 # Read Excel data
 try {
