@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import griddata, Rbf
 
 # Base folder path to search for .ags files
-base_folder_path = r'C:\Users\10024680\Downloads\02-PHASE 2 (1)\02-PHASE 2\05- AGS FILE\Phase 2B-B'
+base_folder_path = r'folder_path' #change "folder_path" to your own
 
 # Output directory for contour maps
 save_directory = r"C:\Users\10024680\Downloads"
