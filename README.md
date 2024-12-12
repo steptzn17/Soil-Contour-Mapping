@@ -82,3 +82,8 @@ This project automates the generation of soil contour maps, leveraging Python's 
 - Support for additional file formats and real-time data.
 - Enhanced 3D visualization of soil profiles.
 
+## Applications used:
+- Spyder
+- Visual Studio Code
+- Google Colab
+
