@@ -46,35 +46,6 @@ This project automates the generation of soil contour maps, leveraging Python's 
 - requirements.txt        # Dependencies
 - README.md               # Project description
 
-
-## 
-Here’s the content of your README, formatted entirely in a code block so that it appears as plain text when included in a README or another markdown file:
-
-markdown
-Copy code
-# Soil-Contouring
-
-This was one of my projects that was done during my internship and continued even after my internship.
-
-## Soil Contouring Using Python
-
-This project automates the generation of soil contour maps, leveraging Python's data analysis and visualization libraries to process geospatial and soil data efficiently. Soil contour maps are vital tools in civil engineering, agriculture, and environmental studies to represent variations in soil properties over a geographical area.
-
-## Features
-
-- **Data Handling**: Efficiently reads and processes soil data from AGS files.  
-- **Interpolation**: Implements advanced interpolation methods using `scipy` to create smooth contour lines.  
-- **Visualization**: Generates professional-quality contour maps using `matplotlib`.  
-- **Customization**: Allows flexible adjustments for data inputs, color schemes, and contour intervals.
-
-### Technologies Used
-
-- **Python Libraries**:  
-  - `numpy`: For numerical computations.  
-  - `pandas`: For data manipulation.  
-  - `scipy`: For spatial interpolation.  
-  - `matplotlib`: For contour plotting.
-
 ## Future Improvements
 
 - Integration with GIS tools for geospatial analysis.
