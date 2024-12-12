@@ -87,3 +87,6 @@ This project automates the generation of soil contour maps, leveraging Python's 
 - Visual Studio Code
 - Google Colab
 
+##Disclainer:
+This is my first time trying other programming languages other than Python. There are errors so please do take note haha
+
