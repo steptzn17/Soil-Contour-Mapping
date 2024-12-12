@@ -1,6 +1,6 @@
 # Soil Contour Mapping
 
-This was one of my projects I have done during my internship. I decided to continue as I gained interest in it.
+Started during my internship. I decided to continue diving into this area as I gained interest in it.
 
 ## Soil Contouring Using Python
 
