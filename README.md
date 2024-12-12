@@ -40,7 +40,6 @@ This project automates the generation of soil contour maps, leveraging Python's 
 
 ## Project Structure
 
-.
 - data/                   # Input soil data files (e.g., AGS format)
 - outputs/                # Generated contour maps
 - soil_mapping.py         # Main Python script
