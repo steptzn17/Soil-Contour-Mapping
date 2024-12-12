@@ -1,10 +1,10 @@
 # Soil-Contouring
 
-This was one of my projects done during my internship and continued even after my internship. Decided to continue as I gained interest in it.
+This was one of my projects I have done during my internship. I decided to continue as I gained interest in it.
 
 ## Soil Contouring Using Python
 
-This project automates the generation of soil contour maps, leveraging Python's data analysis and visualization libraries to process geospatial and soil data efficiently. Soil contour maps are vital tools in civil engineering, agriculture, and environmental studies, representing variations in soil properties over a geographical area.
+This project automates the generation of soil contour maps, leveraging Python's data analysis and visualization libraries to process geospatial and soil data efficiently. Soil contour maps represent variations in soil properties over a geographical area, making them vital tools in civil engineering, agriculture, and environmental studies.
 
 ## Features
 
@@ -87,6 +87,6 @@ This project automates the generation of soil contour maps, leveraging Python's 
 - Visual Studio Code
 - Google Colab
 
-## Disclainer:
+## Disclaimer:
 This is my first time trying other programming languages other than Python. There are errors so please do take note haha
 
