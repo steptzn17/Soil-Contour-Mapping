@@ -7,7 +7,7 @@ from scipy.interpolate import griddata
 import os
 
 # Define the path to your Excel file
-file_path = '/Volumes/STEPH 64GB/SJ/Soil Contour/Phase-2A-A.xlsx'
+file_path = 'file_path.xlsx' #change it accordingly
 
 # Load the Excel file
 try:
