@@ -66,7 +66,7 @@ plt.xlabel("EASTING (m)")
 plt.ylabel("NORTHING (m)")
 
 # Save the contour plot
-save_directory = r"/Volumes/STEPH 64GB/SJ/Soil Contour/02-PHASE 2 (1)/02-PHASE 2/05- AGS FILE"  # Update to your desired directory
+save_directory = r"where_you_want_it_to_be_saved"  # Update to your desired directory
 if not os.path.exists(save_directory):
     os.makedirs(save_directory)  # Create directory if it doesn't exist
 
