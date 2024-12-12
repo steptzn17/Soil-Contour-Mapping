@@ -6,7 +6,7 @@ async function createContourMap() {
   try {
     // Read Excel file
     const workbook = new ExcelJS.Workbook();
-    await workbook.xlsx.readFile('/Volumes/STEPH 64GB/SJ/Soil Contour/02-PHASE 2 (1)/02-PHASE 2/05- AGS FILE/Phase-2.xlsx');
+    await workbook.xlsx.readFile('your_excel_file_name.xlsx') // Please change it to your excel file name
     const worksheet = workbook.worksheets[0]; // Assuming data is in the first sheet
 
     // Extract data from Excel
